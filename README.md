@@ -1,6 +1,7 @@
-# HandCubeSolver
+# Virtual-Rubiks-Cube-Control
 
-HandCubeSolver is a Python-based project that allows you to solve a virtual Rubik's Cube using hand gestures. With this application, you can manipulate a 3D Rubik's Cube on your computer screen by moving your hands in front of a camera. It provides an interactive and fun way to solve the classic puzzle.
+Virtual-Rubiks-Cube-Control is a Python-based project that allows you to solve a virtual Rubik's Cube using hand gestures. With this application, you can manipulate a 3D Rubik's Cube on your computer screen by moving your hands in front of a camera. It provides an interactive and fun way to solve the classic puzzle.
+**Please Note**: This project is currently a work in progress.
 
 ## Features
 
@@ -9,6 +10,10 @@ HandCubeSolver is a Python-based project that allows you to solve a virtual Rubi
 - Intuitive gesture controls for cube rotations and movements.
 - Automatic solving of the Rubik's Cube when completed.
 - Easy-to-use and interactive interface.
+
+# Contributing
+
+Once the core work is completed, this project will be open for contributions and feature requests.
 
 ## Requirements
 
@@ -26,7 +31,7 @@ HandCubeSolver is a Python-based project that allows you to solve a virtual Rubi
 
 ## How It Works
 
-HandCubeSolver uses computer vision techniques to detect and track your hand movements in real-time. It recognizes predefined hand gestures and translates them into corresponding Rubik's Cube movements. The virtual cube's state is continuously updated as you make gestures.
+Virtual-Rubiks-Cube-Control uses computer vision techniques to detect and track your hand movements in real time. It recognizes predefined hand gestures and translates them into corresponding Rubik's Cube movements. The virtual cube's state is continuously updated as you make gestures.
 
 ## License
 
